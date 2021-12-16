@@ -30,7 +30,11 @@ ___
 
 <!-- Blockquote -->
 ### Blockquote
->This is a quote
+>This is a quote, 
+can I take a long paragraph without word wrap? from the year of 2010, I have been working in Canada.
+>>This is nested blockquote:
+ each year, I will return my hometown in China, last year the climate was not nice, and I decide to stay here.
+>>* nested list in blockquote
 
 This is normal
 
@@ -93,3 +97,14 @@ Format Table --> shift + alt + f
 * [ ] Task 2
 * [x] Task 3
 
+### markdown table without header
+|         This is                        |      table with                           |   Lists   |
+| -------------------------------------- | ----------------------------------------- | --------- |
+| 2nd                                    | row                                       | no border |
+| <ul><li>item 1</li><li>item2</li></ul> | <ol><li> item1 </li><li> item 2</li></ol> | nice      |
+
+### Comments:
+This markdown is created in VS Code, with extensions
+1. Vim emulation for Visual Studio Code (vscodevim version 1.21.10)
+2. Markdown Preview Enhanced (version 0.6.1, by YiYi Wang)
+3. Markdown Table (Version 0.7.2 by Takumil)
