@@ -77,6 +77,8 @@ This is normal
     npm install
     npm start
 ```
+This is a sample note.[^note1]
+[^note1]: learn how to put a note.
 
 ### Python block
 ```python
